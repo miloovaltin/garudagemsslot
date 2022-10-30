@@ -1,0 +1,16 @@
+{
+"name": "garudagemsslot",
+"theme": "garuda gems slot",
+"version": "3.3.2",
+"description": "garuda gems slot ทางเข้าหลักเว็บพนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"garuda gems slot",
+"garuda gems slot เครดิตฟรี",
+"garuda gems slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/garudagemsslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
